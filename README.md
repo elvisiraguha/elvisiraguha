@@ -3,7 +3,7 @@
 ### Hello Devs 👋
 #### I am a Full Stack Web Developer
 
-I use JavaScript, Reactjs and Angular to make Frontend apps; Nodejs and Expressjs to make RESTful APIs.
+I use JavaScript, Reactjs and Angular to bring functioning & beautiful applications to the web; Nodejs and Expressjs to build powerful & usable RESTful APIs.
 
 ##### Contact me via [iraguhaelvis@gmail.com](mailto://iraguhaelvis@gmail.com) or +250783984662
 
