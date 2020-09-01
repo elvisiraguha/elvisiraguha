@@ -3,7 +3,7 @@
 ## Hello Devs 👋
 ### I am a Full Stack Web Developer
 
-I use JavaScript, Reactjs and Angular to bring functioning & beautiful applications to the web; Nodejs and Expressjs to build powerful & usable RESTful APIs.
+I use JavaScript, Reactjs and Angular to bring functioning & beautiful applications to the web; Node js and Express js to build powerful & usable RESTful APIs.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=elvisiraguha&count_private=true)
 
